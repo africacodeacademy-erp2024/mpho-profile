@@ -7,7 +7,7 @@ Hello! My name is Mpho. I am a participant in the Africa Code Academy Engineerin
 - **Name:** Mpho Sefantsi
 - **Location:** Ha-Khabo
          
-     <img src="1694676178227.jpg" alt="My image" style="max-width: 400px; max-height: 400px; border: 1px solid #ccc; margin: 0 auto;">
+     <img src="./images1694676178227.jpg" alt="My image" style="max-width: 400px; max-height: 400px; border: 1px solid #ccc; margin: 0 auto;">
 - **Education:** 
         - Botho University(Bsc Hons Degree In Computing)
 - **Skills:** 
