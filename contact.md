@@ -1,15 +1,13 @@
 # Contact
 
-Provide your contact information here. You can include your email, LinkedIn profile, or any other ways to reach you.
-
 ## Email
 
-<your.email@example.com>
+[mpho.sefantsi@africacode.academy](mpho.sefantsi@africacode.academy)
 
 ## LinkedIn
 
-[LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+[LinkedIn Profile](https://www.linkedin.com/in/mpho-sefantsi-246134291)
 
 ## GitHub
 
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/MphoSefantsii)
