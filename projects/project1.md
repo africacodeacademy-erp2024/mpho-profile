@@ -2,9 +2,9 @@
 
 ## Overview
 ### Home page
-![photography home](landing.jpg)
+![photography home](../images/landing.jpg)
 ### Admin page
-![photography img](cahsins.jpg)
+![photography img](../images/cahsins.jpg)
 
 ## Technologies Used
 
