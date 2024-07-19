@@ -1,12 +1,11 @@
 # My Projects
 
 ## Overview
-
-Provide an overview of your projects here.
+### Home page
+![photography home](landing.jpg)
+### Admin page
+![photography img](cahsins.jpg)
 
 # Projects
 ### Project 1
-[Description of the first project]
-
-### Project 2
-[Description of the second project]
+Above is the home page and the administrator's page for Cahsins photography.
