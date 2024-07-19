@@ -1,15 +1,18 @@
 # Projects
 
 ## Overview
-
-Provide an overview of your project here. Explain what the project is about, its goals, and any key features.
+### Home page
+![photography home](landing.jpg)
+### Admin page
+![photography img](cahsins.jpg)
 
 ## Technologies Used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Html
+- PHP
+- CSS
+- Bootstrap
 
 ## Contributions
 
-Detail your contributions to the project and any notable achievements.
+I've contributed to this project, which marks my first significant endeavor outside of class assignments and assessments. My work involves implementing HTML, PHP, CSS, and Bootstrap to create a cohesive and visually appealing website for Cahsins Photography.
