@@ -2,9 +2,9 @@
 
 ## Overview
 ### Home page
-![photography home](./images/landing.jpg)
+![photography home](../images/landing.jpg)
 ### Admin page
-![photography img](./images/cahsins.jpg)
+![photography img](../images/cahsins.jpg)
 
 # Projects
 ### Project 1
